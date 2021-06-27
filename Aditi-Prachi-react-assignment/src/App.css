@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+  overflow-x: hidden;
+}
+.App{
+    background-color: #81818d;
+    color: #fff;
+}
+hr.style-one {
+    margin: 1rem 2rem;
+    border: 0;
+    height: 1.5px;
+    background: #333;
+}
